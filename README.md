@@ -72,8 +72,8 @@ The repository includes synthetic demonstration data under `data/`:
 Replace the placeholder with the final public repository URL.
 
 ```bash
-git clone <YOUR_PUBLIC_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/Deshikagupta/igdtuw-deshika-gupta-hackathon.git
+cd igdtuw-deshika-gupta-hackathon
 ```
 
 ### Step 2: Configure and run the backend
