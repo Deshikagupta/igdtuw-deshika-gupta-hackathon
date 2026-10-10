@@ -4,7 +4,7 @@
 **Candidate Name:** Deshika Gupta  
 **College Email ID:** `deshika034bteceai23@igdtuw.ac.in`  
 **College / Campus:** Indira Gandhi Delhi Technical University for Women (IGDTUW)  
-**Demo Video Link:** `[Add your unlisted YouTube link]`  
+**Demo Video Link:** `https://youtu.be/pVageiyVvro`  
 **Slide Deck:** [View presentation PDF](docs/presentation.pdf)
 
 ## 1. Project Overview / Problem Statement & Approach
@@ -167,8 +167,8 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Submission Links
 
-- **Public GitHub repository:** `[Add your repository URL]`
-- **10-minute demo video:** `[Add your unlisted YouTube link]`
+- **Public GitHub repository:** `https://github.com/Deshikagupta/igdtuw-deshika-gupta-hackathon`
+- **10-minute demo video:** `https://youtu.be/pVageiyVvro`
 - **Presentation deck:** [docs/presentation.pdf](docs/presentation.pdf)
 - **Architecture diagram:** [docs/architecture.png](docs/architecture.png)
 
