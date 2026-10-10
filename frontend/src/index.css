@@ -1,0 +1,17 @@
+:root {
+  color-scheme: dark;
+  font-synthesis: none;
+}
+html {
+  min-width: 320px;
+  min-height: 100%;
+  background: #0c1018;
+}
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+#root {
+  min-height: 100vh;
+}

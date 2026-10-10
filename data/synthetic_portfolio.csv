@@ -1,0 +1,5 @@
+asset_id,asset_name,asset_type,ticker,sector,quantity,current_price,currency,synthetic,duration,credit_rating
+ASSET-001,Example Technology Shares,Equity,EXTECH,Technology,100,180,USD,True,,
+ASSET-002,Example Corporate Bond,Corporate Bond,EXBOND,Finance,50,1000,USD,True,4.2,BBB
+ASSET-003,Example Government Bond,Government Bond,EXGOV,Government,20,950,USD,True,6.1,AAA
+ASSET-004,Example Corporate Loan,Corporate Loan,EXLOAN,Industrials,25,980,USD,True,2.8,BB

@@ -1,0 +1,1 @@
+"""NLP components: preprocessing, entity resolution, sentiment, event classification (Phases 3-4)."""

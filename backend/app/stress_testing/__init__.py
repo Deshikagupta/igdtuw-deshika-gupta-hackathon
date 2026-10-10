@@ -1,0 +1,1 @@
+"""Scenario configuration, stress engine and trigger evaluator (Phase 5)."""

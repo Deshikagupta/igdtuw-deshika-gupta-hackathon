@@ -1,0 +1,59 @@
+scenarios:
+  - key: equity_downturn
+    priority: 40
+    name: Equity Market Downturn
+    description: "Illustrative broad decline in equity valuations."
+    shocks_pct:
+      Equity: -15.0
+      Corporate Bond: -5.0
+      Government Bond: 2.0
+      Corporate Loan: -4.0
+      Derivative: -20.0
+    trigger_event_types:
+      - Macroeconomic
+      - Earnings
+    impact_threshold: 7
+
+  - key: credit_deterioration
+    priority: 20
+    name: Credit Deterioration
+    description: "Illustrative deterioration in corporate credit conditions."
+    shocks_pct:
+      Equity: -8.0
+      Corporate Bond: -12.0
+      Government Bond: 3.0
+      Corporate Loan: -15.0
+      Derivative: -10.0
+    trigger_event_types:
+      - Credit Event
+      - Regulatory
+    impact_threshold: 7
+
+  - key: macroeconomic_shock
+    priority: 30
+    name: Macroeconomic Shock
+    description: "Illustrative broad shock across multiple asset classes."
+    shocks_pct:
+      Equity: -12.0
+      Corporate Bond: -8.0
+      Government Bond: -4.0
+      Corporate Loan: -10.0
+      Derivative: -15.0
+    trigger_event_types:
+      - Macroeconomic
+      - Geopolitical
+    impact_threshold: 8
+
+  - key: geopolitical_disruption
+    priority: 10
+    name: Geopolitical Disruption
+    description: "Illustrative market disruption from geopolitical events."
+    shocks_pct:
+      Equity: -10.0
+      Corporate Bond: -7.0
+      Government Bond: 4.0
+      Corporate Loan: -8.0
+      Derivative: -12.0
+    trigger_event_types:
+      - Geopolitical
+    impact_threshold: 7
